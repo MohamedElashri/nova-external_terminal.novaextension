@@ -10,6 +10,7 @@
     "Terminus": "Terminus",
     "Wrap": "Wrap",
     "Tabby": "Tabby",
+    "Kitty": "Kitty",
 
     "Global Config": " Globale Konfiguration",
 
@@ -19,6 +20,7 @@
     "Couldn't find;co.zeit.hyper": "Hyper konnte nicht gefunden werden",
     "Couldn't find;dev.warp.Warp-Stable": "Warp konnte nicht gefunden werden",
     "Couldn't find;org.tabby": "Tabby konnte nicht gefunden werden",
+    "Couldn't find;net.kovidgoyal.kitty": "Kitty konnte nicht gefunden werden ",
 
     "Pick another terminal emulator": "Wählen Sie einen anderen Terminal-Emulator in den Einstellungen der Erweiterung aus.",
     "Pick another": "Wählen Sie einen anderen Terminal-Emulator"

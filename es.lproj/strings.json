@@ -1,29 +1,30 @@
 {
-	"New External Terminal": "New External Terminal",
+    "New External Terminal": "New External Terminal",
 
-	"OK": "Aceptar",
-	"Terminal": "Terminal por defecto",
-	"Use of default terminal": "La terminal por defecto se inicia después de usar el comando New External Terminal.",
+    "OK": "Aceptar",
+    "Terminal": "Terminal por defecto",
+    "Use of default terminal": "La terminal por defecto se inicia después de usar el comando New External Terminal.",
 
-	"Apple Terminal": "Terminal de Apple",
-	"iTerm": "iTerm",
-	"Alacritty": "Alacritty",
-	"Hyper": "Hyper",
-	"Terminus": "Terminus",
+    "Apple Terminal": "Terminal de Apple",
+    "iTerm": "iTerm",
+    "Alacritty": "Alacritty",
+    "Hyper": "Hyper",
+    "Terminus": "Terminus",
     "Wrap": "Wrap",
     "Tabby": "Tabby",
+    "Kitty": "Kitty",
 
-	"Global Config": "Configuración global",
+    "Global Config": "Configuración global",
 
 
-	"Couldn't find;com.apple.Terminal": "¿Dónde está la Terminal de Apple?",
-	"Couldn't find;com.googlecode.iterm2": "¿Dónde está iTerm?",
-	"Couldn't find;io.alacritty": "¿Dónde está Alacritty?",
-	"Couldn't find;co.zeit.hyper": "¿Dónde está Hyper?",
+    "Couldn't find;com.apple.Terminal": "¿Dónde está la Terminal de Apple?",
+    "Couldn't find;com.googlecode.iterm2": "¿Dónde está iTerm?",
+    "Couldn't find;io.alacritty": "¿Dónde está Alacritty?",
+    "Couldn't find;co.zeit.hyper": "¿Dónde está Hyper?",
     "Couldn't find;dev.warp.Warp-Stable": "¿Dónde está Warp",
     "Couldn't find;org.tabby": "¿Dónde está Tabby",
+    "Couldn't find;net.kovidgoyal.kitty": "¿Dónde está Kitty",
 
-
-	"Pick another terminal emulator": "Elija otra aplicación en la página de preferencias de la extensión.",
-	"Pick another": "Elija una aplicación distinta"
+    "Pick another terminal emulator": "Elija otra aplicación en la página de preferencias de la extensión.",
+    "Pick another": "Elija una aplicación distinta"
 }

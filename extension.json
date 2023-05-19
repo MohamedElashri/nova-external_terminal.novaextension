@@ -3,7 +3,7 @@
   "name": "Open in external terminal",
   "organization": "melashri",
   "description": "Open an external terminal from nova command platte.",
-  "version": "1.0",
+  "version": "1.1",
   "categories": ["commands"],
   "repository": "https://github.com/MohamedElashri/nova-external_terminal.novaextension",
   "bugs": "https://github.com/MohamedElashri/nova-external_terminal.novaextension/issues",
@@ -40,7 +40,8 @@
         "Alacritty",
         "Hyper",
         "Warp",
-        "Tabby"
+        "Tabby",
+        "Kitty"
       ]
     }
   ],
@@ -61,7 +62,8 @@
         "Alacritty",
         "Hyper",
         "Warp",
-        "Tabby"
+        "Tabby",
+        "Kitty"
       ]
     }
   ]
