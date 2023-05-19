@@ -1,0 +1,68 @@
+{
+  "identifier": "melashri.net.Openinexternalterminal",
+  "name": "Open in external terminal",
+  "organization": "melashri",
+  "description": "Open an external terminal from nova command platte.",
+  "version": "1.0",
+  "categories": ["commands"],
+  "repository": "https://github.com/MohamedElashri/nova-external_terminal.novaextension",
+  "bugs": "https://github.com/MohamedElashri/nova-external_terminal.novaextension/issues",
+  "main": "main.js",
+
+  "activationEvents": ["onLanguage:html"],
+
+  "entitlements": {
+    "process": true
+  },
+
+  "commands": {
+    "extensions": [
+      {
+        "title": "New External Terminal",
+        "command": "open.externalterminal",
+        "shortcut": "opt-cmd-c"
+      }
+    ]
+  },
+  "config": [
+    {
+      "key": "terminal",
+      "type": "enum",
+      "title": "Terminal",
+      "description": "Use of default terminal",
+      "radio": true,
+      "default": "Apple Terminal",
+      "allowsCustom": false,
+
+      "values": [
+        "Apple Terminal",
+        "iTerm",
+        "Alacritty",
+        "Hyper",
+        "Warp",
+        "Tabby"
+      ]
+    }
+  ],
+  "configWorkspace": [
+    {
+      "key": "terminal",
+      "type": "enum",
+      "title": "Terminal",
+      "description": "Use of default terminal",
+      "radio": true,
+      "default": "Global Config",
+      "allowsCustom": false,
+
+      "values": [
+        "Global Config",
+        "Apple Terminal",
+        "iTerm",
+        "Alacritty",
+        "Hyper",
+        "Warp",
+        "Tabby"
+      ]
+    }
+  ]
+}

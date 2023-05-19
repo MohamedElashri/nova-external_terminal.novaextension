@@ -1,0 +1,25 @@
+{
+    "OK": "Ignorer",
+    "Terminal": "Terminal par défaut",
+    "Use of default terminal": "Le terminal par défaut s'ouvre après l'utilisation de la commande Nouveau terminal externe.",
+
+    "Apple Terminal": "Terminal Apple",
+    "iTerm": "iTerm",
+    "Alacritty": "Alacritty",
+    "Hyper": "Hyper",
+    "Terminus": "Terminus",
+    "Wrap": "Wrap",
+    "Tabby": "Tabby",
+
+    "Global Config": "Configuration globale",
+
+    "Couldn't find;com.apple.Terminal": "Impossible de trouver le Terminal Apple",
+    "Couldn't find;com.googlecode.iterm2": "Impossible de trouver iTerm",
+    "Couldn't find;io.alacritty": "Impossible de trouver Alacritty",
+    "Couldn't find;co.zeit.hyper": "Impossible de trouver Hyper",
+    "Couldn't find;dev.warp.Warp-Stable": "Impossible de trouver Warp",
+    "Couldn't find;org.tabby": "Impossible de trouver Tabby",
+
+    "Pick another terminal emulator": "Choisissez un autre émulateur de terminal dans la page de préférences de l'extension.",
+    "Pick another": "Choisissez-en un autre"
+}

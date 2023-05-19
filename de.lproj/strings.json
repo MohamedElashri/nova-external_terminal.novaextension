@@ -1,0 +1,25 @@
+{
+    "OK": "Schließen",
+    "Terminal": "Standard-Terminal",
+    "Use of default terminal": "Das Standard-Terminal wird nach Verwendung des Befehls 'Neues externes Terminal' geöffnet.",
+
+    "Apple Terminal": "Apple Terminal",
+    "iTerm": "iTerm",
+    "Alacritty": "Alacritty",
+    "Hyper": "Hyper",
+    "Terminus": "Terminus",
+    "Wrap": "Wrap",
+    "Tabby": "Tabby",
+
+    "Global Config": " Globale Konfiguration",
+
+    "Couldn't find;com.apple.Terminal": "Apple Terminal konnte nicht gefunden werden",
+    "Couldn't find;com.googlecode.iterm2": "iTerm konnte nicht gefunden werden",
+    "Couldn't find;io.alacritty": "Alacritty konnte nicht gefunden werden",
+    "Couldn't find;co.zeit.hyper": "Hyper konnte nicht gefunden werden",
+    "Couldn't find;dev.warp.Warp-Stable": "Warp konnte nicht gefunden werden",
+    "Couldn't find;org.tabby": "Tabby konnte nicht gefunden werden",
+
+    "Pick another terminal emulator": "Wählen Sie einen anderen Terminal-Emulator in den Einstellungen der Erweiterung aus.",
+    "Pick another": "Wählen Sie einen anderen Terminal-Emulator"
+}

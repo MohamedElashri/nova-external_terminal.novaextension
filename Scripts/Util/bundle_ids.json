@@ -1,0 +1,8 @@
+{
+	"Apple Terminal": "com.apple.Terminal",
+	"iTerm": "com.googlecode.iterm2",
+	"Alacritty": "io.alacritty",
+	"Hyper": "co.zeit.hyper",
+	"Warp": "dev.warp.Warp-Stable",
+    "Tabby": "org.tabby"
+}
