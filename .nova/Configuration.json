@@ -1,4 +1,13 @@
 {
+  "eablokker.tabsSidebar.config.collapsedFolders" : [
+
+  ],
+  "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
+    "json"
+  ],
+  "eablokker.tabsSidebar.config.customTabOrder" : [
+    "file:\/\/\/Users\/melashri\/Desktop\/Projects\/Github\/nova-external_terminal.novaextension\/de.lproj\/strings.json"
+  ],
   "readme.conf.seen" : true,
   "terminal" : "Global Config",
   "workspace.art_style" : 1,

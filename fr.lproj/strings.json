@@ -11,6 +11,7 @@
     "Wrap": "Wrap",
     "Tabby": "Tabby",
     "Kitty": "Kitty",
+    "Rio": "Rio",
 
     "Global Config": "Configuration globale",
 
@@ -21,6 +22,7 @@
     "Couldn't find;dev.warp.Warp-Stable": "Impossible de trouver Warp",
     "Couldn't find;org.tabby": "Impossible de trouver Tabby",
     "Couldn't find;net.kovidgoyal.kitty": "Impossible de trouver Kitty",
+    "Couldn't find;com.raphaelamorim.rio": "Impossible de trouver Rio",
 
     "Pick another terminal emulator": "Choisissez un autre émulateur de terminal dans la page de préférences de l'extension.",
     "Pick another": "Choisissez-en un autre"

@@ -11,6 +11,7 @@ The currently supported terminals are:
 - Hyper
 - Wrap
 - Tabby
+- Rio
 
 The extension is also available in the following languages:
 

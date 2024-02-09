@@ -13,6 +13,7 @@
       "Wrap": "Wrap",
       "Tabby": "Tabby",
       "Kitty": "Kitty",
+      "Rio": "Rio",
 
       "Global Config": "Global Config",
 
@@ -23,6 +24,7 @@
       "Couldn't find;dev.warp.Warp-Stable": "Couldn't find Warp",
       "Couldn't find;org.tabby": "Couldn't find Tabby",
       "Couldn't find;net.kovidgoyal.kitty": "Couldn't find Kitty",
+      "Couldn't find;com.raphaelamorim.rio": "Couldn't find Rio",
 
       "Pick another terminal emulator": "Pick another terminal emulator in the extension's preferences page.",
       "Pick another": "Pick another terminal emulator"

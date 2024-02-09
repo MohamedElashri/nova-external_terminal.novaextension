@@ -22,12 +22,21 @@ nova.commands.register("open.externalterminal", (workspace) => {
 	let args;
 
 	if (workspace.path) {
-		args = [workspace.path, "-b", terminal, "--args", "--working-directory", workspace.path];
-
-		if (terminal == "io.alacritty") args.shift();
+		if (terminal == "com.raphaelamorim.rio") {
+			// For Rio terminal
+			args = ["-b", terminal, "--args", "--working-dir", workspace.path];
+		} else if (terminal == "io.alacritty") {
+			// For Alacritty terminal
+			args = ["-a", "Alacritty", "--args", "--working-directory", workspace.path];
+		} else {
+			// Default case for other terminals
+			args = [workspace.path, "-b", terminal, "--args", "--working-directory", workspace.path];
+		}
 	} else {
 		args = ["-b", terminal];
 	}
+
+
 
 	let process = new Process("/usr/bin/open", { args });
 	process.onStderr((msg) => console.error(msg));
