@@ -12,8 +12,9 @@
     "Terminus": "Terminus",
     "Wrap": "Wrap",
     "Tabby": "Tabby",
-    "Kitty": "Kitty",
+    "Kitty": "kitty",
     "Rio": "Rio",
+    "Ghostty": "Ghostty",
 
     "Global Config": "Configuración global",
 
@@ -22,10 +23,11 @@
     "Couldn't find;com.googlecode.iterm2": "¿Dónde está iTerm?",
     "Couldn't find;io.alacritty": "¿Dónde está Alacritty?",
     "Couldn't find;co.zeit.hyper": "¿Dónde está Hyper?",
-    "Couldn't find;dev.warp.Warp-Stable": "¿Dónde está Warp",
-    "Couldn't find;org.tabby": "¿Dónde está Tabby",
-    "Couldn't find;net.kovidgoyal.kitty": "¿Dónde está Kitty",
-    "Couldn't find;com.raphaelamorim.rio": "¿Dónde está Rio",
+    "Couldn't find;dev.warp.Warp-Stable": "¿Dónde está Warp?",
+    "Couldn't find;org.tabby": "¿Dónde está Tabby?",
+    "Couldn't find;net.kovidgoyal.kitty": "¿Dónde está kitty?",
+    "Couldn't find;com.raphaelamorim.rio": "¿Dónde está Rio?",
+    "Couldn't find;com.mitchellh.ghostty": "¿Dónde está Ghostty?",
 
     "Pick another terminal emulator": "Elija otra aplicación en la página de preferencias de la extensión.",
     "Pick another": "Elija una aplicación distinta"
