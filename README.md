@@ -5,13 +5,15 @@ This extension provides the ability to launch an external terminal from the comm
 
 The currently supported terminals are:
 
-- Apple Terminal
-- iTerm2
-- Alacritty
-- Hyper
-- Wrap
-- Tabby
-- Rio
+- [Apple Terminal](https://support.apple.com/en-us/guide/terminal/welcome/mac)
+- [iTerm2](https://iterm2.com)
+- [Alacritty](https://alacritty.org)
+- [Hyper](https://hyper.is)
+- [Warp](https://www.warp.dev)
+- [Tabby](https://tabby.sh)
+- [kitty](https://sw.kovidgoyal.net/kitty/)
+- [Rio](https://raphamorim.io/rio/)
+- [Ghostty](https://ghostty.org)
 
 The extension is also available in the following languages:
 

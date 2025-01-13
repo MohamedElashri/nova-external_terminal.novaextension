@@ -14,6 +14,7 @@
       "Tabby": "Tabby",
       "Kitty": "Kitty",
       "Rio": "Rio",
+      "Ghostty": "Ghostty",
 
       "Global Config": "Global Config",
 
@@ -25,6 +26,7 @@
       "Couldn't find;org.tabby": "Couldn't find Tabby",
       "Couldn't find;net.kovidgoyal.kitty": "Couldn't find Kitty",
       "Couldn't find;com.raphaelamorim.rio": "Couldn't find Rio",
+      "Couldn't find;com.mitchellh.ghostty": "Couldn't find Ghostty",
 
       "Pick another terminal emulator": "Pick another terminal emulator in the extension's preferences page.",
       "Pick another": "Pick another terminal emulator"
