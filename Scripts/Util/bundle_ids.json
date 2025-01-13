@@ -5,7 +5,7 @@
     "Hyper": "co.zeit.hyper",
     "Warp": "dev.warp.Warp-Stable",
     "Tabby": "org.tabby",
-    "Kitty": "net.kovidgoyal.kitty",
+    "kitty": "net.kovidgoyal.kitty",
     "Rio": "com.raphaelamorim.rio",
     "Ghostty": "com.mitchellh.ghostty"
 }
