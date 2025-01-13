@@ -12,7 +12,7 @@
     "Terminus": "Terminus",
     "Wrap": "Wrap",
     "Tabby": "Tabby",
-    "Kitty": "Kitty",
+    "Kitty": "kitty",
     "Rio": "Rio",
     "Ghostty": "Ghostty",
 
@@ -25,7 +25,7 @@
     "Couldn't find;co.zeit.hyper": "¿Dónde está Hyper?",
     "Couldn't find;dev.warp.Warp-Stable": "¿Dónde está Warp?",
     "Couldn't find;org.tabby": "¿Dónde está Tabby?",
-    "Couldn't find;net.kovidgoyal.kitty": "¿Dónde está Kitty?",
+    "Couldn't find;net.kovidgoyal.kitty": "¿Dónde está kitty?",
     "Couldn't find;com.raphaelamorim.rio": "¿Dónde está Rio?",
     "Couldn't find;com.mitchellh.ghostty": "¿Dónde está Ghostty?",
 

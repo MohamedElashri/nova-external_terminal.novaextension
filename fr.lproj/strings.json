@@ -10,7 +10,7 @@
     "Terminus": "Terminus",
     "Wrap": "Wrap",
     "Tabby": "Tabby",
-    "Kitty": "Kitty",
+    "Kitty": "kitty",
     "Rio": "Rio",
     "Ghostty": "Ghostty",
 
@@ -22,7 +22,7 @@
     "Couldn't find;co.zeit.hyper": "Impossible de trouver Hyper",
     "Couldn't find;dev.warp.Warp-Stable": "Impossible de trouver Warp",
     "Couldn't find;org.tabby": "Impossible de trouver Tabby",
-    "Couldn't find;net.kovidgoyal.kitty": "Impossible de trouver Kitty",
+    "Couldn't find;net.kovidgoyal.kitty": "Impossible de trouver kitty",
     "Couldn't find;com.raphaelamorim.rio": "Impossible de trouver Rio",
     "Couldn't find;com.mitchellh.ghostty": "Impossible de trouver Ghostty",
 
